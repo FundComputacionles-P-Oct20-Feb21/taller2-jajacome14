@@ -1,5 +1,5 @@
 # Taller 2: Análisis de variables y resolución de expresiones.
 
-### Ejericios
+### Ejercicios
 
 * Realizar los ejercicios del archivo taller2.txt
